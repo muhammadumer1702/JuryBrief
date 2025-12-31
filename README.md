@@ -1,36 +1,52 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# JuryBrief
 
-## Getting Started
+**Turn your design concepts into clear, jury-ready explanations using AI.**
 
-First, run the development server:
+JuryBrief is a web application built to help **fashion and apparel design students** clearly explain their thesis or collection concepts during jury evaluations.  
+It transforms raw project inputs into **structured, easy-to-understand explanations** suitable for academic presentations.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ What JuryBrief Does
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+JuryBrief takes your project details — such as concept, inspiration, materials, and garment categories — and generates a **well-structured jury explanation** in **simple, professional English**.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+The output is divided into **five clear sections**:
+1. Concept Overview  
+2. Inspiration Source  
+3. Color & Fabric Justification  
+4. Silhouette & Garment Categories  
+5. Overall Design Narrative  
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🎓 Who It’s For
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Fashion Design students  
+- Textile Design students  
+- Apparel Design students  
+- Thesis and jury presentations  
+- Academic fashion projects  
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🚀 Features
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Dark, academic-style UI
+- Simple English (jury-friendly, not overly technical)
+- Structured AI-generated explanations
+- Supports multiple garment categories
+- Real-time AI generation
+- Smooth UI update on regeneration
+- Deployed on Vercel
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 🛠 Tech Stack
+
+- **Next.js (App Router)**
+- **TypeScript**
+- **OpenAI API**
+- **Vercel** (Deployment)
+
+---
